@@ -1,1 +1,6 @@
-moodle-auth_tdd
+TDD Auth Plugin
+===============
+
+Example of plugin using TDD.
+
+Check commit history.
